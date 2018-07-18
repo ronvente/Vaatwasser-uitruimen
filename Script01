@@ -1,5 +1,9 @@
 Dit is het script dat mijn vaatwasser leeg gaat ruimen.
 
 Als vaatwasser is:
-  vol -> stuur mailtje naar Carolien
+  vol -> controleer of deze schoon is
+    ja schoon ->   stuur mailtje naar Carolien
+    nee vuil -> Heeft Soepie hem aangezet
+      Nee -> Sla Soepie in elkaar, en zet vaatwasser aan
+      Ja -> Stuur mail naar facility Services
   leeg -> stuur mailtje naar Ron.
