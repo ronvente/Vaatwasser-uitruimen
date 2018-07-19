@@ -22,5 +22,3 @@ ethanol - antischuimmiddel, versnelde verdamping van het water
 vetalcohol - oppervlaktespanningsverlager
 Regenereerzout
 Als het water te hard is moet men zout toevoegen om het water te ontharden. Het water dat wordt gebruikt, wordt onthard door het langs bolletjes kunsthars met natrium-ionen te laten stromen. Na verloop van tijd zijn alle natrium-ionen gebruikt om het water te ontharden, en verliest het zijn werking. De afwasmachine zal dan water met regenereerzout langs de onthardingsinstallatie laten stromen, om de kunsthars weer met natrium-ionen te activeren.
-
-Externe links
