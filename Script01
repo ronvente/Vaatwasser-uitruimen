@@ -8,6 +8,10 @@ Als vaatwasser is:
       Ja -> Stuur mail naar facility Services
   leeg -> stuur mailtje naar Ron.
 
-Vaatwasser is leeg, controleer of deze stinkt:
+Als vaatwasser is:
+  leeg -> controleer of deze stinkt:
     ja stinkt -> plaats schoonmaakflacon en zet vaatwasser weer aan
     nee stunkt niet -> sluit vaatwasser en stuur mail naar Ron
+  vol -> controleer of deze schoon is
+    ja schoon -> ruim vaatwasser uit
+    nee vuil -> zet vaatwasser aan
