@@ -7,3 +7,7 @@ Als vaatwasser is:
       Nee -> Sla Soepie in elkaar, en zet vaatwasser aan
       Ja -> Stuur mail naar facility Services
   leeg -> stuur mailtje naar Ron.
+
+Vaatwasser is leeg, controleer of deze stinkt:
+    ja stinkt -> plaats schoonmaakflacon en zet vaatwasser weer aan
+    nee stunkt niet -> sluit vaatwasser en stuur mail naar Ron
